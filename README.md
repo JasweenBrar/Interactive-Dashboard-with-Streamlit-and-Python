@@ -43,3 +43,10 @@
     ⭐ Task 7: Relationship between Runtime and Revenue
 
 ----------
+
+💠 **DEMO of project:**
+  
+  *Lorel Ipsum*
+ 
+ --------
+
