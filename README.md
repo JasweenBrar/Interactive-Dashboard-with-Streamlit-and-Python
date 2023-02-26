@@ -44,9 +44,16 @@
 
 ----------
 
+💠 **How to run the website / dashboard:**
+  
+    🌸 `streamlit run mainDashboard.py`
+ 
+--------
+
 💠 **DEMO of project:**
   
   *Lorel Ipsum*
  
- --------
+--------
+
 
