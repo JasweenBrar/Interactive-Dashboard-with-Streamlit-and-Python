@@ -45,8 +45,7 @@
 ----------
 
 💠 **How to run the website / dashboard:**
-  
-    🌸 `streamlit run mainDashboard.py`
+  🌸 `streamlit run mainDashboard.py`
  
 --------
 
