@@ -10,7 +10,7 @@
 *😊😊😊 Show some :heart: by giving the repo a ⭐*
 
 
-💠 **Learning objectives / Libraries used:**
+## 💠 **Learning objectives / Libraries used:**
 
     ✔️ Build interactive data dashboards with Streamlit and Python.
     
@@ -18,15 +18,13 @@
     
     ✔️ Create interactive plots with Plotly Python.
   
- ----------
 
-💠 **GOAL:**
+## 💠 **GOAL:**
   
   *We are going to load, explore, visualize and interact with data, and generate dashboards in less than 130 lines of Python code!*
  
- --------
  
-💠 **Tasks:**
+## 💠 **Tasks:**
 
     ⭐ Task 1: Analyzing Movie Release Dates
   
@@ -42,17 +40,14 @@
    
     ⭐ Task 7: Relationship between Runtime and Revenue
 
-----------
 
-💠 **How to run the website / dashboard:**
+## 💠 **How to run the website / dashboard:**
   🌸 `streamlit run mainDashboard.py`
  
---------
 
-💠 **LIVE DEMO of the dashboard project:**
+## 💠 **LIVE DEMO of the dashboard project:**
   
   [Click Here 😊😊😊](https://jasweenbrar-interactive-dashboard-with-str-maindashboard-18dfsm.streamlit.app/)
  
---------
 
 
